@@ -10,7 +10,7 @@
 ## Utilização no mercado
 
 - [x] na maioria dos sistemas atuais
-- [x] Várias linguagens (JS, TS, JAVA, PYTHON)
+- [x] Várias linguagens (JS, TS, JAVA, PYTHON...)
 - [x] Utilizado por analistas de sistemas e não só por programadores
 
  _na fase de levantamento de requisitos de sistemas_
@@ -25,12 +25,30 @@
 - Quando quiser organizar seu código
 - Para mellhor entendimento do código, pensando nele como Objetos
 - Quando precisar fazer reuso do código
-- Para separar a compexidade do código, abstrair código e expor de maneira mais simples
-- Para classificar a rotina e  e trechos do código
+- Para separar a complexidade do código, abstrair código e expor de maneira mais simples
+- Para classificar a rotina e trechos do código
 
 **Objetos**
-Todo objeto possui
+=> Todo objeto possui
 
 - pripriedades e funcionalidades
 - estados e comportamentos
 - atributos e métodos
+
+### Classes
+
+As classes na orientação a objetos funcionam como um molde para os objetos. Os objetos são criados a partir de uma classe e muitos deles podem ser feitos da mesma classe.
+
+> Classes no Javascript
+
+- Syntactical sugar
+- Prototype
+
+> Encapsulamento
+
+- Colocar numa cápsula
+- Agrupamento de funções e variáveis
+- Esconder detalhes de implementação
+- Camada de segurança para os atributos e métodos
+
+![Alternate text](poo.png)
