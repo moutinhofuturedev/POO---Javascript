@@ -35,3 +35,18 @@ function Password(mypassword, yourpassword) {
 
 const seePassword = new Password('macarraocomqueijo', 1007)
 console.log(seePassword.getPassword(), seePassword.twoPasswords())
+
+//Conceito de Herança
+class Veiculo {
+    rodas = 4
+
+    andar(direcao){}
+    virar(direcao){}
+}
+
+class Moto extends Veiculo {
+    constructor() {
+        super() // o super puxa atributos e métodos do pai 
+        this.rodas = 2
+    }
+}
