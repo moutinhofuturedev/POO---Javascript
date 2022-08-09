@@ -52,3 +52,22 @@ As classes na orientação a objetos funcionam como um molde para os objetos. Os
 - Camada de segurança para os atributos e métodos
 
 ![Alternate text](poo.png)
+
+### Programação Estruturada VS Orientada a Objetos
+
+`Programação Estruturada`
+
+- Processa a entrada e manipulação dos dados até a saída  
+- Uso de sequências, estruturas de repetições e condições
+- Uso de uma rotina maior ou sub-rotinas
+- Não existe restrições as variáveis
+
+`Programação Orientada a Objetos`
+
+- Surge para trazer um cuidado ao uso estruturado
+- Não elimina por completo o uso estruturado
+- Conceitos como Objetos e Classes
+- Cuidados com variáveis e rotinas ( Encapsulamento )
+- Melhor reuso do código ( Herança )
+
+![Alternate text](code.png)
