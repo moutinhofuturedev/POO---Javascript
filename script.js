@@ -35,23 +35,3 @@ function Password(mypassword, yourpassword) {
 
 const seePassword = new Password('macarraocomqueijo', 1007)
 console.log(seePassword.getPassword(), seePassword.twoPasswords())
-
-// Estruturado
-// let valorHora = 50
-// let tempoEstimado = 20
-// let desconto = valorHora * tempoEstimado * (10 / 100)
-// let custoEstimado = valorHora * tempoEstimado - desconto
-// console.log(custoEstimado)
-
-// Orientado a Objeto
-let job = new job()
-let valorHora = 50
-let tempoEstimado = 20
-let desconto = 10
-const custoEstimado = job.calculatudo()
-
-console.log(custoEstimado)
-
-
-
-
