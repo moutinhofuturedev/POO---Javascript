@@ -25,13 +25,13 @@ function Password(mypassword, yourpassword) {
     let secretPassword = 12345
 
     this.getPassword = () => {
-        return secretPassword
+        return `Estou jogando para fora a senha ${secretPassword}`
     }
 
     this.twoPasswords = () => {
-        return this.mypassword + ' e ' + this.yourpassword
+        return `Minhas principais senhas são ${this.mypassword + ' e ' + this.yourpassword}`
     }
 }
 
-const seePassword = new Password('Lau&Duda2020', 1007)
+const seePassword = new Password('macarraocomqueijo', 1007)
 console.log(seePassword.getPassword(), seePassword.twoPasswords())
