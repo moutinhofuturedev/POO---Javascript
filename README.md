@@ -1,4 +1,13 @@
-# Programação Orientada a Objeto
+<h1 align="center">Programação Orientada a Objeto</h1>
+<p align="center">
+ <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/moutinhofuturedev/POO-Javascript">
+
+  <a href="https://www.linkedin.com/in/paulomoutinhovitor/">
+    <img alt="Made by" src="https://img.shields.io/badge/Made%20by-Paulo%20Moutinho-brightgreen">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/moutinhofuturedev/POO-Javascript">
+</p>
 
 - Oriented Project Programming
 - Um paradigma de desenvolvimento
