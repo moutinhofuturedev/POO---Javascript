@@ -82,3 +82,9 @@ Saiba 💡
 
 - um objeto pode estender de outro objeto que pode estender de outro objeto e assim por diante
 - Fácil reutilização de código
+
+### Polimorfismo
+
+Quando um objeto estende de outro (herança) talvez haja a necessidade de reescrever uma ou mais características ( atributos e métodos ) nesse novo objeto.Ele herda as funções do pai mas pode ter características diferentes.
+
+Polimorfismo significa **muitas formas**
